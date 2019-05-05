@@ -3,6 +3,8 @@
 
 Public Repo with releases for Q-player
 
+![alt text](https://raw.githubusercontent.com/Toooorch/q-player/master/Screenshots/screen1.png "Icon")
+
 ## Current functionality
 - Supports **Windows/macOS**
 - Listen to the **Q-dance Radio** station in the most convenient way.
@@ -11,6 +13,10 @@ Public Repo with releases for Q-player
 - Now playing information like **album cover, name and artist.**
 - Start the playback with **alt+p.**
 - Quickly mute the playback with **alt+m** shortcut.
+
+
+![alt text](https://raw.githubusercontent.com/Toooorch/q-player/master/Screenshots/screen2.png "Screen")
+
 
 ## Upcoming releases:
 - support for **more stations.**
