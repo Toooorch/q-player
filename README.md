@@ -1,7 +1,8 @@
 # q-player
 ## http://q-player.com/
 
-Public Repo with releases for Q-player
+Releases for Q-player, hardstyle player powered by Q-dance Radio.
+Listen to the Q-dance Radio in the most convenient way. Just open this tiny app, hit a play button and that's it.
 
 ![alt text](https://raw.githubusercontent.com/Toooorch/q-player/master/Screenshots/screen1.png "Icon")
 
