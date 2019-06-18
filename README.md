@@ -1,12 +1,8 @@
-# q-player
-## http://q-player.com/
+Listen to Q-dance Radio in the most convenient way. Just open this tiny app, hit a play button and that's it.
 
-Releases for Q-player, hardstyle player powered by Q-dance Radio.
-Listen to the Q-dance Radio in the most convenient way. Just open this tiny app, hit a play button and that's it.
+![Q-player latest update](https://user-images.githubusercontent.com/4589728/59571940-ece7d580-90a9-11e9-9b82-96a19fe22905.png)
 
-![alt text](https://raw.githubusercontent.com/Toooorch/q-player/master/Screenshots/screen1.png "Icon")
-
-## Current functionality
+## Features
 - Supports **Windows/macOS**
 - Listen to the **Q-dance Radio** station in the most convenient way.
 - Always on **top.**
@@ -14,15 +10,11 @@ Listen to the Q-dance Radio in the most convenient way. Just open this tiny app,
 - Now playing information like **album cover, name and artist.**
 - Start the playback with **alt+p.**
 - Quickly mute the playback with **alt+m** shortcut.
-
-
-![alt text](https://raw.githubusercontent.com/Toooorch/q-player/master/Screenshots/screen2.png "Screen")
-
+- Automatic **"Dark mode"**
+- Ability to set **specific volume.**
 
 ## Upcoming releases:
 - support for **more stations.**
-- **"Dark mode"**
-- Ability to set **specific volume.**
 - **Upcoming** track information.
 - **Previous** track information.
 - Integration with **Spotify** and other streaming services.
