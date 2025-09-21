@@ -1,4 +1,4 @@
-<img width="1090" height="746" alt="image" src="https://github.com/user-attachments/assets/09f32a3f-02bb-4c84-997e-838839e0f32e" />
+<img width="956" height="558" alt="image" src="https://github.com/user-attachments/assets/e1db7e20-5fe1-49b4-9ecc-658e1244f80e" />
 
 Experience Q-dance Radio in the easiest way possible. Just open this lightweight app, press play, and enjoy the music—no hassle, no distractions.
 
