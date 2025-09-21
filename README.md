@@ -1,6 +1,6 @@
 Listen to Q-dance Radio in the most convenient way. Just open this tiny app, hit a play button and that's it.
 
-![Q-player latest update](https://user-images.githubusercontent.com/4589728/59571940-ece7d580-90a9-11e9-9b82-96a19fe22905.png)
+<img width="1090" height="746" alt="image" src="https://github.com/user-attachments/assets/09f32a3f-02bb-4c84-997e-838839e0f32e" />
 
 ## Features
 - Supports **Windows/macOS**
