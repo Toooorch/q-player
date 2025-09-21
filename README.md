@@ -1,25 +1,14 @@
-Listen to Q-dance Radio in the most convenient way. Just open this tiny app, hit a play button and that's it.
-
 <img width="1090" height="746" alt="image" src="https://github.com/user-attachments/assets/09f32a3f-02bb-4c84-997e-838839e0f32e" />
 
-## Features
-- Supports **Windows/macOS**
-- Listen to the **Q-dance Radio** station in the most convenient way.
-- Always on **top.**
-- Automatically opens in the **left top corner** of the screen.
-- Now playing information like **album cover, name and artist.**
-- Start the playback with **alt+p.**
-- Quickly mute the playback with **alt+m** shortcut.
-- Automatic **"Dark mode"**
-- Ability to set **specific volume.**
+Experience Q-dance Radio in the easiest way possible. Just open this lightweight app, press play, and enjoy the music—no hassle, no distractions.
 
-## Upcoming releases:
-- support for **more stations.**
-- **Upcoming** track information.
-- **Previous** track information.
-- Integration with **Spotify** and other streaming services.
-- **Google Search** for current track
-- **Linux** support for major distributions.
-- **Default opening position** will depend on platform.
-- **Airplay/chromecast** support.
-- **Auto updates**
+Features
+- Compatible with Windows and macOS
+- Stream Q-dance Radio effortlessly
+- Always on top for uninterrupted listening
+- See now playing info: album cover, track name, and artist
+- Add tracks to your Spotify, YouTube Music, or Apple Music collections and playlists instantly
+- Start playback instantly with Alt + P
+- Quickly mute with Alt + M
+- Switch between dark and light modes
+- Set a custom volume level
