@@ -3,7 +3,7 @@
 Experience Q-dance Radio in the easiest way possible. Just open this lightweight app, press play, and enjoy the music—no hassle, no distractions.
 
 Features
-- Compatible with Windows and macOS
+- Compatible with Windows, macOS and Linux
 - Stream Q-dance Radio effortlessly
 - Always on top for uninterrupted listening
 - See now playing info: album cover, track name, and artist
